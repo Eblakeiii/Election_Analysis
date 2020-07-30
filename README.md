@@ -35,10 +35,10 @@ The analysis of the election show that:
  ## Challenge Summary
  The Challenge analysis yielded the following results.
  
- The total voter turnout was 369,711 and the breakout by counties are:
+ The total voter turnout was 369,711 and the breakout by counties is:
  
-    - Arapahoe had a turnout of 24,801 voters, or 6.71%.
-    - Denver had a turnout of 306,055 voters, or 82.78%.
-    - Jefferson had a turnout of 38,855 voters, or 10.51%.
+   - Arapahoe had a turnout of 24,801 voters, or 6.71%.
+   - Denver had a turnout of 306,055 voters, or 82.78%.
+   - Jefferson had a turnout of 38,855 voters, or 10.51%.
  
  County of Denver had the largest voter turnout of the three.
